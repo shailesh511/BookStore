@@ -10,3 +10,8 @@ E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.csp
 E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.dll
 E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\ref\BookHub.DataAccess.dll
 E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.pdb
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.Models.dll
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.Utility.dll
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.Models.pdb
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.Utility.pdb
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.csproj.CopyComplete

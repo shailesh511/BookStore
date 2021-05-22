@@ -1,0 +1,12 @@
+E:\My Project\BookHub\BookHub.Utility\bin\Debug\net5.0\BookHub.Utility.deps.json
+E:\My Project\BookHub\BookHub.Utility\bin\Debug\net5.0\BookHub.Utility.dll
+E:\My Project\BookHub\BookHub.Utility\bin\Debug\net5.0\ref\BookHub.Utility.dll
+E:\My Project\BookHub\BookHub.Utility\bin\Debug\net5.0\BookHub.Utility.pdb
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.csprojAssemblyReference.cache
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.AssemblyInfoInputs.cache
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.AssemblyInfo.cs
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.csproj.CoreCompileInputs.cache
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.dll
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\ref\BookHub.Utility.dll
+E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.pdb
