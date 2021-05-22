@@ -1543,6 +1543,26 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BookHub.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BookHub.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookHub.Models.dll": {}
+        }
+      },
+      "BookHub.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BookHub.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookHub.Utility.dll": {}
+        }
       }
     }
   },
@@ -5800,10 +5820,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BookHub.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookHub.Models/BookHub.Models.csproj",
+      "msbuildProject": "../BookHub.Models/BookHub.Models.csproj"
+    },
+    "BookHub.Utility/1.0.0": {
+      "type": "project",
+      "path": "../BookHub.Utility/BookHub.Utility.csproj",
+      "msbuildProject": "../BookHub.Utility/BookHub.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "BookHub.Models >= 1.0.0",
+      "BookHub.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.6",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.6"
@@ -5839,7 +5871,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj": {
+              "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj"
+            },
+            "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj": {
+              "projectPath": "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

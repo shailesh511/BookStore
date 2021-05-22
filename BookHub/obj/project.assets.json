@@ -1862,6 +1862,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "BookHub.Models": "1.0.0",
+          "BookHub.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.6",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6"
@@ -1881,6 +1883,16 @@
         },
         "runtime": {
           "bin/placeholder/BookHub.Models.dll": {}
+        }
+      },
+      "BookHub.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BookHub.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookHub.Utility.dll": {}
         }
       }
     }
@@ -6695,12 +6707,18 @@
       "type": "project",
       "path": "../BookHub.Models/BookHub.Models.csproj",
       "msbuildProject": "../BookHub.Models/BookHub.Models.csproj"
+    },
+    "BookHub.Utility/1.0.0": {
+      "type": "project",
+      "path": "../BookHub.Utility/BookHub.Utility.csproj",
+      "msbuildProject": "../BookHub.Utility/BookHub.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "BookHub.DataAccess >= 1.0.0",
       "BookHub.Models >= 1.0.0",
+      "BookHub.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.6",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.6",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.6",
@@ -6745,6 +6763,9 @@
             },
             "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj": {
               "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj"
+            },
+            "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj": {
+              "projectPath": "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj"
             }
           }
         }
