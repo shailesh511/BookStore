@@ -1857,6 +1857,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BookHub.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.6",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6"
+        },
+        "compile": {
+          "bin/placeholder/BookHub.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookHub.DataAccess.dll": {}
+        }
+      },
+      "BookHub.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BookHub.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookHub.Models.dll": {}
+        }
       }
     }
   },
@@ -6660,10 +6685,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BookHub.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../BookHub.DataAccess/BookHub.DataAccess.csproj",
+      "msbuildProject": "../BookHub.DataAccess/BookHub.DataAccess.csproj"
+    },
+    "BookHub.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookHub.Models/BookHub.Models.csproj",
+      "msbuildProject": "../BookHub.Models/BookHub.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "BookHub.DataAccess >= 1.0.0",
+      "BookHub.Models >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.6",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.6",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.6",
@@ -6702,7 +6739,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
+              "projectPath": "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj"
+            },
+            "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj": {
+              "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

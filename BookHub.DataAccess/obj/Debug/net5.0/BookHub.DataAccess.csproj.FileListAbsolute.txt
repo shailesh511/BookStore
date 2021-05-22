@@ -1,0 +1,12 @@
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.DataAccess.deps.json
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.DataAccess.dll
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\ref\BookHub.DataAccess.dll
+E:\My Project\BookHub\BookHub.DataAccess\bin\Debug\net5.0\BookHub.DataAccess.pdb
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.csprojAssemblyReference.cache
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.AssemblyInfoInputs.cache
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.AssemblyInfo.cs
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.csproj.CoreCompileInputs.cache
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.dll
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\ref\BookHub.DataAccess.dll
+E:\My Project\BookHub\BookHub.DataAccess\obj\Debug\net5.0\BookHub.DataAccess.pdb

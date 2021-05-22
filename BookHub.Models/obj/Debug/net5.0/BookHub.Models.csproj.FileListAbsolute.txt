@@ -1,0 +1,12 @@
+E:\My Project\BookHub\BookHub.Models\bin\Debug\net5.0\BookHub.Models.deps.json
+E:\My Project\BookHub\BookHub.Models\bin\Debug\net5.0\BookHub.Models.dll
+E:\My Project\BookHub\BookHub.Models\bin\Debug\net5.0\ref\BookHub.Models.dll
+E:\My Project\BookHub\BookHub.Models\bin\Debug\net5.0\BookHub.Models.pdb
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.csprojAssemblyReference.cache
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.AssemblyInfoInputs.cache
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.AssemblyInfo.cs
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.csproj.CoreCompileInputs.cache
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.dll
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\ref\BookHub.Models.dll
+E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.pdb
