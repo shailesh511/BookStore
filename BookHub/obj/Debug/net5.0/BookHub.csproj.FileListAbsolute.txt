@@ -444,3 +444,5 @@ E:\My Project\BookHub\BookHub\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\I
 E:\My Project\BookHub\BookHub\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
 E:\My Project\BookHub\BookHub\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
 E:\My Project\BookHub\BookHub\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\My Project\BookHub\BookHub\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\My Project\BookHub\BookHub\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
