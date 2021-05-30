@@ -8,24 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\asd\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\shail\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj",
+      "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj",
       "projectName": "BookHub.Models",
-      "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj",
-      "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-      "outputPath": "E:\\My Project\\BookHub\\BookHub.Models\\obj\\",
+      "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj",
+      "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

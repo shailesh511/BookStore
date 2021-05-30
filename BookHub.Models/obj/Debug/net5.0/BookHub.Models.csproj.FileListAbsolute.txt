@@ -10,3 +10,15 @@ E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.csproj.Core
 E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.dll
 E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\ref\BookHub.Models.dll
 E:\My Project\BookHub\BookHub.Models\obj\Debug\net5.0\BookHub.Models.pdb
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\bin\Debug\net5.0\BookHub.Models.deps.json
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\bin\Debug\net5.0\BookHub.Models.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\bin\Debug\net5.0\ref\BookHub.Models.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\bin\Debug\net5.0\BookHub.Models.pdb
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.csprojAssemblyReference.cache
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.AssemblyInfoInputs.cache
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.AssemblyInfo.cs
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.csproj.CoreCompileInputs.cache
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\ref\BookHub.Models.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Models\obj\Debug\net5.0\BookHub.Models.pdb

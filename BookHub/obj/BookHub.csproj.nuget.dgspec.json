@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Project\\BookHub\\BookHub\\BookHub.csproj": {}
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub\\BookHub.csproj": {}
   },
   "projects": {
-    "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
         "projectName": "BookHub.DataAccess",
-        "projectPath": "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "E:\\My Project\\BookHub\\BookHub.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -31,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj": {
-                "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj"
               },
-              "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj": {
-                "projectPath": "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj"
               }
             }
           }
@@ -82,21 +83,22 @@
         }
       }
     },
-    "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj",
         "projectName": "BookHub.Models",
-        "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "E:\\My Project\\BookHub\\BookHub.Models\\obj\\",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj",
+        "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -139,21 +141,22 @@
         }
       }
     },
-    "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj",
         "projectName": "BookHub.Utility",
-        "projectPath": "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "E:\\My Project\\BookHub\\BookHub.Utility\\obj\\",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj",
+        "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -196,21 +199,22 @@
         }
       }
     },
-    "E:\\My Project\\BookHub\\BookHub\\BookHub.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub\\BookHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Project\\BookHub\\BookHub\\BookHub.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub\\BookHub.csproj",
         "projectName": "BookHub",
-        "projectPath": "E:\\My Project\\BookHub\\BookHub\\BookHub.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "E:\\My Project\\BookHub\\BookHub\\obj\\",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub\\BookHub.csproj",
+        "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -223,14 +227,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
-                "projectPath": "E:\\My Project\\BookHub\\BookHub.DataAccess\\BookHub.DataAccess.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj"
               },
-              "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj": {
-                "projectPath": "E:\\My Project\\BookHub\\BookHub.Models\\BookHub.Models.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj"
               },
-              "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj": {
-                "projectPath": "E:\\My Project\\BookHub\\BookHub.Utility\\BookHub.Utility.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj"
               }
             }
           }

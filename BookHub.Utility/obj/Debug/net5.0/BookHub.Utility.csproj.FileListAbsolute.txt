@@ -10,3 +10,15 @@ E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.csproj.Co
 E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.dll
 E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\ref\BookHub.Utility.dll
 E:\My Project\BookHub\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.pdb
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\bin\Debug\net5.0\BookHub.Utility.deps.json
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\bin\Debug\net5.0\BookHub.Utility.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\bin\Debug\net5.0\ref\BookHub.Utility.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\bin\Debug\net5.0\BookHub.Utility.pdb
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.csprojAssemblyReference.cache
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.AssemblyInfoInputs.cache
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.AssemblyInfo.cs
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.csproj.CoreCompileInputs.cache
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\ref\BookHub.Utility.dll
+C:\Users\shail\Desktop\CTS Project\BookStore\BookHub.Utility\obj\Debug\net5.0\BookHub.Utility.pdb
