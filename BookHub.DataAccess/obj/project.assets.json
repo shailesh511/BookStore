@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Dapper/2.0.90": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/5.0.6": {
         "type": "package",
         "compile": {
@@ -1567,6 +1576,24 @@
     }
   },
   "libraries": {
+    "Dapper/2.0.90": {
+      "sha512": "e4YjOLJptnpwHIbP8HxjaYf7So9lhUC43rvvGMEkH4Q4CiVlm4rOxYDo0HyuHlMQKj0U5Ob/nCMm52TUhTaZQg==",
+      "type": "package",
+      "path": "dapper/2.0.90",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.90.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/5.0.6": {
       "sha512": "iJYBphYXA0BLEzVwJDFpYuWN9yrZkPZIrOoHKthLuAA3pbv2rBRrDgiTp244ZQ8LGLVUa11VOBDncmFexZuhCg==",
       "type": "package",
@@ -5836,6 +5863,7 @@
     "net5.0": [
       "BookHub.Models >= 1.0.0",
       "BookHub.Utility >= 1.0.0",
+      "Dapper >= 2.0.90",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.6",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.6"
@@ -5848,11 +5876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
       "projectName": "BookHub.DataAccess",
-      "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
+      "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
       "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5873,11 +5901,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj": {
-              "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj"
+            "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj": {
+              "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj"
             },
-            "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj": {
-              "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj"
+            "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj": {
+              "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj"
             }
           }
         }
@@ -5892,6 +5920,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.90, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.6, )"
@@ -5920,7 +5952,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

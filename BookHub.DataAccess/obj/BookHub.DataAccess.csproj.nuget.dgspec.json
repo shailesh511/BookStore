@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {}
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\BookHub.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
         "projectName": "BookHub.DataAccess",
-        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\BookHub.DataAccess.csproj",
         "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj": {
-                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj"
               },
-              "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj": {
-                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj"
+              "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj": {
+                "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.6, )"
@@ -79,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj",
         "projectName": "BookHub.Models",
-        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\BookHub.Models.csproj",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\BookHub.Models.csproj",
         "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Models\\obj\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -137,18 +141,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj": {
+    "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj",
         "projectName": "BookHub.Utility",
-        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\BookHub.Utility.csproj",
+        "projectPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\BookHub.Utility.csproj",
         "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookStore\\BookHub.Utility\\obj\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\CTS Project\\BookHub.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -195,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
